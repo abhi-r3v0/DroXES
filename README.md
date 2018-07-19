@@ -17,24 +17,24 @@ A simple script to install the most necessary tools for security testing on your
 
 ### APK Packages:
 
-* [Xposed] ()
-* [Inspeckage] ()
-* [Drozer]()
-* [Terminal Emulator]()
-* [Busybox]()
-* [SSL Unpin]()
-* [RootCloak]()
+* [Xposed](http://repo.xposed.info/module/de.robv.android.xposed.installer)
+* [Inspeckage](https://github.com/ac-pm/Inspeckage)
+* [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
+* [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
+* [Busybox](https://play.google.com/store/apps/details?id=stericson.busybox)
+* [SSL Unpin](https://github.com/ac-pm/SSLUnpinning_Xposed)
+* [RootCloak](http://repo.xposed.info/module/com.devadvance.rootcloak2)
 
 ### Utilities
 
-* [Frida-server]()
-* [tcpdump]()
+* [Frida-server](https://frida.re/)
+* [tcpdump](https://www.androidtcpdump.com/)
 
 ### System Tools
 
-* [Drozer]()
-* [Frida-tools]()
-* [ADB]()
+* [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
+* [Frida-tools](https://frida.re/)
+* [ADB](https://developer.android.com/studio/command-line/adb)
 
 ---
 
