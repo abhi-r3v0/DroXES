@@ -6,8 +6,6 @@ A simple script to install the most necessary tools for security testing on your
 
 ---
 
----
-
 ### PRE-REQUISITES:
 
 * Linux or MAC
