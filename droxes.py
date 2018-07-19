@@ -5,7 +5,7 @@ import ConfigParser
 import subprocess
 import threading
 
-__author__ = 'Abhishek J M ( jmabhishek@gmail.com, @abhi_r3v0 )'
+__author__ = 'Abhishek J M ( jmabhishek4@gmail.com, @abhi_r3v0 )'
 
 class DroXES:
 
@@ -60,7 +60,7 @@ class DroXES:
             subprocess.Popen(['adb', 'push', os.getcwd() + '/bin/' + i, '/data/local/tmp'], stderr=subprocess.PIPE)
             print "\t[+] Installed " + i
 
-        os.system('adb shell "chmod 755 /data/local/tmp/frida12.0.4.so"')
+        os.system('adb shell "chmod 755 /data/local/tmp/frida12.0.4"')
         os.system('adb shell "chmod 755 /data/local/tmp/tcpdump"')
 
 def main():
