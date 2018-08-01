@@ -40,7 +40,12 @@ A simple script to install the most necessary tools for security testing on your
 
 ## Usage:
 
-1. Dowload the zip or clone the package and extract the tool ( ```git clone https://github.com/abhi-r3v0/DroXES.git``` ).
-2. Open a terminal and cd into the directory.
-3. Run ```python droxes.py```
+1. Plug-in your device/start your emulator. Make sure USB Debugging is turned-on. [How to set USB debugging on](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
+2. Dowload the zip or clone the package and extract the tool ( ```git clone https://github.com/abhi-r3v0/DroXES.git``` ).
+3. Open a terminal and cd into the directory.
+4. Run ```python droxes.py```
+
+---
+
+## From India, to the world :blue_heart:
 
